@@ -1,0 +1,3 @@
+<?php exit;?>00156757896931a8cf98147d47b36846dae93a87daces:604:"a:2:{s:8:"template";s:541:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="每一个超人妈妈，在伴随着宝宝的成长路上，时而哭时而笑，爱的不要不要的，也有烦不行不行的时候，尤其宝宝身体不舒服，简直难伺候到极点了，自己也跟着焦虑不安，吃不好，睡不好！">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536042969;}";

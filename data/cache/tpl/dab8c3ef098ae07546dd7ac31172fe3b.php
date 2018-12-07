@@ -1,0 +1,3 @@
+<?php exit;?>0015677603828e76c7c255932a6b7be47caa6c53acabs:724:"a:2:{s:8:"template";s:661:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="面向消费者，直接服务于顾客，并按照顾客的特殊要求制作个性化产品的新型营销方式。它避开了中间环节，注重产品设计创新、服务管理、企业资源的整合经营效率，实现了市场的形成和裂变发展，是企业制胜的武器。特别是随着信息技术的发展，个性化营销的重要性日益凸显。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224382;}";

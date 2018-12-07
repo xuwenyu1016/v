@@ -1,0 +1,3 @@
+<?php exit;?>0015705282608f99173d7f28ed67f5221c216fb27d1ds:758:"a:2:{s:8:"template";s:695:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="结肠黑变病通俗的讲就是正常有光泽的桔红色的肠子变成了黑色，似豹纹样，是以结肠黏膜色素沉着为特征的非炎症性病变，在肠镜检查时大概占4%，近一半是60岁以上的老年人。目前认为结肠黑变病是一种结肠癌前病变，有研究发现，结肠黑变病的患者中更容易发现结肠腺瘤。因此，应该引起我们的重视。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538992260;}";

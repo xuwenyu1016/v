@@ -1,0 +1,3 @@
+<?php exit;?>001567760381e67f17cc0455f4b1713446eb26cbe78cs:604:"a:2:{s:8:"template";s:541:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="新手开店是个挑战，特别是要经营好一家母婴店就更加需要掌握好一些经营规则了，这样才能在运营的过程中更好的经营好母婴店。那么有哪些经营规则需要掌握的呢？下面就一起来聊聊吧！">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224381;}";

@@ -1,0 +1,3 @@
+<?php exit;?>0015730312711c10dfe0559f40ceb5eccc104b7fff5ds:700:"a:2:{s:8:"template";s:637:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="肠易激综合症（IBS）是一种一组持续或间歇发作，以腹痛、腹胀、排便习惯和（或）大便性状改变为临床表现，但是缺乏胃肠道结构和生化异常的肠道功能紊乱性疾病，在当今生活节奏加快生活压力大的都市生活中，越来越多的年轻人都有这样或那样的IBS的症状。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1541495271;}";

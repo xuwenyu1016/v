@@ -1,0 +1,3 @@
+<?php exit;?>00156880794936f752e3cbbf704cb0f91d45842e4a2cs:529:"a:2:{s:8:"template";s:466:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="益生菌的好处现在已经是众所皆知了，大家都已经开始了解并接受益生菌对我们人体的好处，补充益生菌已经开始成为一个“潮流”。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1537271949;}";

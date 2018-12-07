@@ -1,0 +1,3 @@
+<?php exit;?>0015677602325e8e5aa3fa3279fc089f043c50c9a54fs:651:"a:2:{s:8:"template";s:588:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="随着居民消费水平提高及健康理念的普及，中国营养品市场火热，益生菌更是为大众接受。在4月14-16日北京举行的京正婴童展上，中国婴童网记者特别采访到了V生态屠总，让我们一同了解V生态益生菌，了解益生菌的品牌策略。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224232;}";

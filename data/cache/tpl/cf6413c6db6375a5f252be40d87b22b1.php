@@ -1,0 +1,3 @@
+<?php exit;?>00156975893946aace63e447f8289660bdd9b93e5fdes:832:"a:2:{s:8:"template";s:769:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="炎症性肠病(inflammatory bowel disease, IBD) 是一组病因不明的慢性肠道炎症性疾病，包括溃疡性结肠炎(ulcerative colitis, UC)和克罗恩病(Crohn&#039;s disease, CD)。克罗恩病患者通常会出现慢性腹泻和腹痛。溃疡性结肠炎患者通常会出现间歇性腹部痉挛和血性腹泻。有时，IBD可引起身体其他部位发炎，如关节、眼睛、口腔和皮肤，在最坏的情况下，可能导致危及生命的并发症。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538222939;}";

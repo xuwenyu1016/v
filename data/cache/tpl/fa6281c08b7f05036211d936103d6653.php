@@ -1,0 +1,3 @@
+<?php exit;?>00157052785762c2463af09641a5e3513d7ed9f44f1cs:817:"a:2:{s:8:"template";s:754:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="谈及“文明病”、“世纪绝症”、“新不治之症” ，我们通常会联想到癌症、艾滋，或者旁的一些稀奇古怪的新病毒。其实，还有一种疾病，在百年前还不算常见，到了二十世纪末，WHO已经把它列入重大公众健康问题。这种令人闻之色变的毛病，就是过敏（Allergy）。而情况还在变得越来越严峻。过敏的人数一直在上升，而症状也有越发加重的趋势。 ">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538991857;}";

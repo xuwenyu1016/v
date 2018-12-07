@@ -1,0 +1,3 @@
+<?php exit;?>001568198749ac5798f2b57841e5e07256ce102f60b8s:621:"a:2:{s:8:"template";s:558:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="V生态品牌优势  1、v生态拥有强大的生物医药企业背景，拥有强大的科研势力，国内生物专家等优势资源。  2、结合生命科学的发展方向，定义微生态新品类，打造“权威胃肠微生态健康专家”品牌形象。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536662749;}";

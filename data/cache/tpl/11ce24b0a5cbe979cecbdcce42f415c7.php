@@ -1,0 +1,3 @@
+<?php exit;?>001567760389ed336d23c50c70100094f123b92867d1s:505:"a:2:{s:8:"template";s:442:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="近年来，随着国民经济水平提升，再加之年轻父母对益生菌功能认知加深，整个婴幼儿市场上益生菌产品发展迅猛。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224389;}";

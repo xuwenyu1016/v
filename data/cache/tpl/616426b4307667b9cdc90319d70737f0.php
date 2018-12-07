@@ -1,0 +1,3 @@
+<?php exit;?>00157191430339893898202d7aafcf480c158b3301c3s:1067:"a:2:{s:8:"template";s:1003:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="其实Kefir的故事也有其他民间传说——在前苏联，它被用于医院和Santeria等各种疾病，包括代谢紊乱、动脉粥样硬化和过敏性疾病。它甚至被用于治疗结核病、细胞生长异常、高胆固醇、胃肠道和代谢疾病、高血压、缺血性心脏病和过敏。温和的酸味和其特有的菌群有助于胃胰分泌唾液和酶，改善蠕动。Kefir有助于食物在肠道中更均匀的运动，乳酸、乙酸和抗生素物质的存在抑制了小肠的分解过程。白藜芦醇的食用还与高加索山脉的长寿有关，在那里，白藜芦醇是用动物皮制成的袋子自然发酵的。这是该地区的民间传说，我们也不能确保">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1540378303;}";

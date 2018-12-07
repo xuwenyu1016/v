@@ -1,0 +1,3 @@
+<?php exit;?>0015677601485e4ac241bd6fba9b8dc599561d09f0f2s:751:"a:2:{s:8:"template";s:688:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="因为益生菌很活跃，当体内有致病菌株的时候，益生菌就开始发挥作用了，这个时候，益生菌对我们人体是有益的，等益生菌的数量超越致病菌株的时候，我们身体机能就会逐渐好转，因为体内不同的菌种正在发挥作用，有益菌正在吞噬致病菌株，逐步在体内站稳脚跟，在这一过程中，可能会发生腹泻">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224148;}";

@@ -1,0 +1,3 @@
+<?php exit;?>0015675046459a24f8457387a2fc4a458ce128bc7447s:571:"a:2:{s:8:"template";s:508:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="一般认为肠道菌群在胃肠道疾病中起着重要的作用，令人惊讶的是，最近几年的研究表明肠道菌群似乎也与大脑生理和行为密切相关，从而可能影响宿主的心理健康。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535968645;}";

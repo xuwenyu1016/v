@@ -1,0 +1,3 @@
+<?php exit;?>001568810748db8db80f393eca8157e965283c296b5bs:511:"a:2:{s:8:"template";s:448:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="2017年底，一位中兴员工从办公大楼顶上一跃而下，舍下老人和妻儿，结束了42岁的生命，让中年焦虑成为年度热门话题；">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1537274748;}";

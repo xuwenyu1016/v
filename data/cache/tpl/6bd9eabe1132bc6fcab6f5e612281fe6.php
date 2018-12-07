@@ -1,0 +1,3 @@
+<?php exit;?>0015675033169778486d928735238a97fad192de6965s:813:"a:2:{s:8:"template";s:750:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="据相关研究表明，胖子和瘦子的肠道中的工人是不一样的。&lt;br/&gt;胖子肠道里的菌群相比瘦子而言，更有高效率地利用食物热量，并把热量提供给胖子。然而，瘦子肠道里的菌群就相对懒得多，吸收得热量也相对较少。长此以往，在同量啤酒炸鸡小龙虾的轰炸下，瘦子们依然能保持相对理想的身段，然后胖子们又要开始购买更高级别尺码的衣服！">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535967316;}";

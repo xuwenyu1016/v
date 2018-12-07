@@ -1,0 +1,3 @@
+<?php exit;?>001567760198e60eca426d7d9e2551fb9da0b7f55696s:541:"a:2:{s:8:"template";s:478:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="腹泻的主要原因之一是肠道受到了感染。如果发生腹泻，最直接的治疗方法就是大量饮水或者静脉输液，目的是为了补充腹泻期间失去的水分。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224198;}";

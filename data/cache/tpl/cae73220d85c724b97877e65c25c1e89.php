@@ -1,0 +1,3 @@
+<?php exit;?>001570527868a8df811b334427858568ade7a113a861s:724:"a:2:{s:8:"template";s:661:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="酒把世界上的人分成了两种，喝酒上脸的，和喝酒不上脸的。江湖有传闻，喝酒上脸的人散酒快，是能喝的表现。这导致有人从头红到了脚，仍然豪情万丈，把酒一杯一杯灌进肚子。那么，喝酒上脸的人到底适不适合大量饮酒？答案是不适合。究其原因，要从人体的酒精代谢说起。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538991868;}";

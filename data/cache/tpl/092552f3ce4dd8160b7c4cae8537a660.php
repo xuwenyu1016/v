@@ -1,0 +1,3 @@
+<?php exit;?>001568882564d5e705921f2b0ad61d7fc87151062d8bs:575:"a:2:{s:8:"template";s:512:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="2017年，一则产妇在产房跳楼导致一尸两命的新闻轰动了整个网络媒体，坚持顺产，结果迟迟生不出来，产妇不堪忍受痛苦，选择跳楼这样极端的方式结束两个人的生命。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1537346564;}";

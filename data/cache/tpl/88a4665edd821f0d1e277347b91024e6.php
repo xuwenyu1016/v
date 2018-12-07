@@ -1,0 +1,3 @@
+<?php exit;?>001567760384b84ba024243f531736986055ced92175s:565:"a:2:{s:8:"template";s:502:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="有研究表明，一个正常人的口腔细菌达500亿个。而这些细菌多为厌氧菌，厌氧菌多生活在牙缝牙垢里，刷牙的物理方式以及牙膏的化学能力很难将这些细菌杀死。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224384;}";

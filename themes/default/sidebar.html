@@ -1,0 +1,20 @@
+<div class="am-margin-top-sm sidebar-box">
+    <div class="am-text-center am-text-lg"><b>近期文章</b></div>
+    <div class="pl">
+        <!--list{app="DuxCms" label="contentList" class_id="15,16,17,5,13,14" image="true" limit="3"}-->
+        <ul class="am-avg-md-2 am-margin-vertical-sm">
+            <li class="am-padding-right-xs am-padding-vertical-xs">
+                <a href="{$list.aurl}" title="{$list.title}">
+                    <img src="{$list.image}" class="am-img-responsive am-center" />
+                </a>
+            </li>
+            <li class="am-padding-vertical-xs">
+                <a href="{$list.aurl}" title="{$list.title}" class="am-link-muted">
+                    <p class="am-text-sm am-text-truncate am-margin-top-xs am-margin-bottom-0">{$list.title}</p>
+                    <p class="description am-text-xs am-margin-top-0 am-margin-bottom-xs">{$list.description}</p>
+                </a>
+            </li>
+        </ul>
+        <!--{/list}-->
+    </div>
+</div>

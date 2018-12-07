@@ -1,0 +1,3 @@
+<?php exit;?>001567760242b3ed74aaefeb615374de74132b488a9es:723:"a:2:{s:8:"template";s:660:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="开水烫脚能杀死脚气？&lt;br/&gt;民间经常有开水烫脚消灭脚气的说法。60℃的水温，将一双满是生化武器的脚浸入，有点烫又有点爽，让人欲罢不能。&lt;br/&gt;60℃的水，很多人是承受不了多久的，不信你试一下。人在烫得难受的同时，想当然得觉得脚气真菌已经被消灭了。然并卵！">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224242;}";

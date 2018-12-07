@@ -1,0 +1,3 @@
+<?php exit;?>00156750645160778cef1afa629bacd37b8728204984s:605:"a:2:{s:8:"template";s:542:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="大肠癌是多步骤病变过程，近年来上海市大肠癌发病率快速上升。流行病学调查发现，过去50年间上海大肠癌发病率增长了5倍多，1962年仅为8.7/10万人，到了2013年这一数据已经升至55-56/10万人。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535970451;}";

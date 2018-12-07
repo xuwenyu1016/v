@@ -1,0 +1,76 @@
+<!--#include file="head.html"-->
+
+<body class="light-grey">
+
+<!--#include file="header.html"-->
+
+<img src="/assets/image/37.png" class="am-img-responsive am-center" alt="{$contentInfo.title}" />
+
+<main class="institute-main am-padding-top-sm">
+    <div class="am-container">
+
+        <p class="am-margin-vertical-sm"><a href="__ROOT__/">首页</a> <!--foreach{$crumb as $vo}--><span> > </span><a href="{$vo.url}">{$vo.name}</a><!--{/foreach}--></p>
+
+        <div class="institute-container">
+
+            <section class="institute-main">
+                <!--foreach{$pageList as $vo}-->
+                <article>
+                    <a href="{$vo.aurl}">
+                        <img src="{$vo.image}" class="am-img-responsive" alt="{$vo.title}">
+
+                        <div>
+                            <p class="am-text-truncate am-margin-vertical-xs">{$vo.title}</p>
+                            <p class="details am-margin-vertical-xs">{$vo.details}</p>
+                            <p class="am-text-xs am-margin-bottom-0 am-margin-top-sm">{date('Y-m-d',$vo.time)}</p>
+                        </div>
+                    </a>
+                </article>
+                <!--{/foreach}-->
+
+                <div class="pagination am-text-center am-margin-top-lg am-margin-bottom-xl">{$page}</div>
+            </section>
+
+
+            <aside>
+
+                <section class="am-padding-sm">
+                    <h2 class="am-margin-top-0 am-margin-bottom-sm am-padding-right-sm">商学院近期文章</h2>
+
+                    <!--list{app="Article" label="contentList" class_id="15,16,17" expand_id=2 limit="5" order="time desc"   }-->
+                    <article>
+                        <a href="{$list.aurl}">
+                            <img src="{$list.image}" class="am-img-responsive" alt="{$list.title}">
+
+                            <div class="am-padding-left-sm">
+                                <p class="am-text-truncate am-margin-vertical-xs">{$list.title}</p>
+                                <p class="am-text-xs am-margin-bottom-0 am-margin-top-sm">{date('Y-m-d',$list.time)}</p>
+                            </div>
+                        </a>
+                    </article>
+                    <!--{/list}-->
+                </section>
+
+
+
+
+            </aside>
+
+        </div>
+
+
+    </div>
+</main>
+
+
+
+<!--#include file="footer.html"-->
+
+<!--#include file="foot.html"-->
+
+<!--<script>-->
+    <!--$(document).ready(function () {-->
+        <!--$(".navList li:nth-child(3) a").addClass("active");-->
+        <!--$(".navList-foot li:nth-child(3) a").addClass("active");-->
+    <!--})-->
+<!--</script>-->

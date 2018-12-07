@@ -1,0 +1,3 @@
+<?php exit;?>0015688090776641bd4f709929fced3fd7bc6ab45de9s:571:"a:2:{s:8:"template";s:508:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="益生菌作为一种有益的活性微生物，可以改善人体微生态平衡，起到调节肠胃、提高人体免疫力的作用。但是在给宝宝吃益生菌时，有一些细节，很多宝妈都做错了。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1537273077;}";

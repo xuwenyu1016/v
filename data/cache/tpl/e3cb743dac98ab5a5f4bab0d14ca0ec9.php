@@ -1,0 +1,3 @@
+<?php exit;?>0015696751657f807f7e51feacdc14aee16d179e7d2es:535:"a:2:{s:8:"template";s:472:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="一提起胃病，很多人想的都是“三分靠治，七分靠养”。很多人一旦胃不舒服，就想靠吃点什么来把胃养好。比如，最常见的，喝粥养胃。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538139165;}";

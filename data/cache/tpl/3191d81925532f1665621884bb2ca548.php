@@ -1,0 +1,3 @@
+<?php exit;?>001567503325b877f332141a196f88e4c8cfdbd5f302s:660:"a:2:{s:8:"template";s:597:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="根据研究显示，每天都洗澡其实是不健康的，最合适的洗澡次数是每周1～2次。大多数人认为洗澡是为了卫生或清洁，但从人体微生态学角度而言，洗澡太多会破坏损害人体微生物组群，进而对免疫系统、消化系统甚至心脏造成伤害。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535967325;}";

@@ -1,0 +1,3 @@
+<?php exit;?>001567760229c8fb79b4d821914bc3ed290e11bd991ds:538:"a:2:{s:8:"template";s:475:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="最近全国各地天气都拉响了高温预警。在这种凶残的气候下，除了空调、西瓜、冰淇淋外，大多数人的酷热救星应该还有一项，那就是洗澡！">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224229;}";

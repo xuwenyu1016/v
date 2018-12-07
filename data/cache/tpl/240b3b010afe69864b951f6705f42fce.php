@@ -1,0 +1,3 @@
+<?php exit;?>0015675065076f7578607e5236910e8501d28a8dde32s:721:"a:2:{s:8:"template";s:658:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="作为国内最具影响力的行业盛会之一，本届京正博览会吸引了众多孕婴童行业精英的聚首，共同交流行业经验、观察行业动向、探讨行业发展。婴幼儿营养品品牌V生态（展位：W4B01）携旗下热销产品亮相京正•北京孕婴童产品博览会，一时间引起参观者络绎不绝前来参观、咨询。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535970507;}";

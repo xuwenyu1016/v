@@ -1,0 +1,3 @@
+<?php exit;?>00156975816260eb9a3808eb8907c692627d8c282681s:839:"a:2:{s:8:"template";s:776:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="随着人类对于肠道菌群的研究逐渐深入，肠道菌群与人体健康的关联愈发紧密。当我们把这些“割裂”的研究“碎片”拼凑起来后，发现几乎所有的作用机理都指向了“自愈力”。中医学认为人体是一个有机的整体，人体与外界环境也是一个有机的整体,这种内外环境的统一性称之为“整体观念”。整体观念与微生态学强调的生物与环境的统一学说具有共同理论基础。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538222162;}";

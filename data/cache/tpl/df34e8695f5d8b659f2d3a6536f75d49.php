@@ -1,0 +1,3 @@
+<?php exit;?>00157260868744208b34b7d4ced0f95d59203fb57d96s:1008:"a:2:{s:8:"template";s:945:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="  慢性特发性便秘（CIC）病程长，没有能够解释症状的组织学或生化检查异常，主要表现为排便频率、性状的改变及部分伴随的腹部不适，安全有效的对症治疗并改善生活质量是关键。利那洛肽作为鸟苷酸环化酶C激动剂，通过增加肠粘膜上皮细胞内cGMP水平，促进肠液分泌,改善便秘，在美国、加拿大、墨西哥已被用于CIC的治疗（145ug/天）；然而由于CIC患者的病情严重程度不一，对利那洛肽的反应性也存在个体差异，所以评估低剂量利那洛肽对CIC的疗效，可以为医生对CIC的治疗提供更多的参考。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1541072687;}";

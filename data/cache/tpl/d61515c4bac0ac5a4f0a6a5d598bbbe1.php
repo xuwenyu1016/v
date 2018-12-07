@@ -1,0 +1,3 @@
+<?php exit;?>0015713923611718db1e57742004b3366a2bfc4604f2s:715:"a:2:{s:8:"template";s:652:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="有大量的事实证据表明麦卢卡蜂蜜可以成功治疗各种消化疾病，包括胃炎，结肠炎和胃溃疡等。但这些研究到底表明了什么，大家依旧有这个疑惑，麦卢卡蜂蜜真的有助于治疗消化问题吗？在这里，小编根据一些科学研究，简单给大家阐明一下麦卢卡蜂蜜的对人体的有效性。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1539856361;}";

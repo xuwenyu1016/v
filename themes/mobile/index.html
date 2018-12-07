@@ -1,0 +1,120 @@
+﻿<!--#include file="head.html"-->
+
+<body>
+
+<!--#include file="header.html"-->
+
+<h3 class="am-margin-vertical-sm am-text-center am-text-lg">近期热点</h3>
+
+<section class="slider-box">
+    <!--list{app="DuxCms" label="formList" table="slider" order="orders asc" limit=1}-->
+    <a href="{$list.link}" title="{$list.title}">
+        <img src="{$list.pc_slider}" class="am-img-responsive am-center" />
+        <div class="am-text-sm am-padding-xs am-text-truncate">{$list.title}</div>
+    </a>
+    <!--{/list}-->
+</section>
+
+<section class="banner-news am-padding-sm">
+    <!--list{app="DuxCms" label="formList" table="slider" order="orders desc" limit=3}-->
+    <article class="am-padding-xs">
+        <a href="{$list.link}" title="{$list.title}">
+            <div>
+                <img src="{$list.pc_slider}" alt="{$list.title}" class="am-img-responsive" />
+                <span class="am-text-center am-text-xs">{$list.label}</span>
+            </div>
+
+            <div class="am-padding-left-sm">
+                <p class="am-margin-vertical-0 am-text-sm am-text-truncate">{$list.title}</p>
+                <p class="am-margin-vertical-0 am-text-xs description">{$list.description}</p>
+            </div>
+        </a>
+    </article>
+    <!--{/list}-->
+
+
+</section>
+
+<h2 class="bg-title am-text-center am-margin-vertical-0 am-padding-sm institute"><a href="/page-Vshengtaiyanjiuyuan.html">V生态研究院 <span class="checkit">more</span></a></h2>
+
+<section class="institute-article am-padding-sm">
+    <!--list{app="Article" label="contentList" class_id="13" expand_id=2 limit="3" order="time desc"   }-->
+    <article class="am-padding-sm">
+        <a href="{$list.aurl}" title="{$list.title}">
+            <div>
+                <img src="{$list.image}" alt="{$list.title}" class="am-img-responsive" />
+            </div>
+
+            <div class="am-padding-left-sm">
+                <p class="am-margin-vertical-0 am-text-sm am-text-truncate">{$list.title}</p>
+                <p class="am-margin-vertical-0 am-text-xs description">{$list.details}</p>
+                <p class="am-margin-vertical-0 am-text-xs date">{date('Y-m-d',$list.time)}</p>
+            </div>
+        </a>
+    </article>
+    <!--{/list}-->
+
+    <!--<a href="" class="more am-text-center am-text-sm am-center">查看更多</a>-->
+</section>
+
+<h2 class="bg-title am-text-center am-margin-vertical-0 am-padding-sm institute-stuff"><a href="/page-Vshengtaiyanjiuyuan.html">V生态科学家 <span class="checkit">more</span></a></h2>
+
+<section class="institute-article am-padding-sm">
+    <!--list{app="Article" label="contentList" class_id=4 expand_id=3 limit="3" order="time desc"   }-->
+    <article class="am-padding-sm">
+        <a href="{$list.aurl}" title="{$list.title}">
+            <div>
+                <img src="{$list.image}" alt="{$list.title}" class="am-img-responsive" />
+            </div>
+
+            <div class="am-padding-left-sm">
+                <p class="am-margin-vertical-0 am-text-sm am-text-truncate">{$list.title}</p>
+                <p class="am-margin-vertical-0 am-text-xs description">{$list.job}</p>
+                <p class="am-margin-vertical-0 am-text-xs description">{$list.details}</p>
+            </div>
+        </a>
+    </article>
+    <!--{/list}-->
+
+
+    <!--<a href="" class="more am-text-center am-text-sm am-center">查看更多</a>-->
+</section>
+
+<h2 class="bg-title am-text-center am-margin-vertical-0 am-padding-top-xs"><a href="/list-yishengjunxiaobaike.html">益生菌小百科 <span class="checkit black">more</span></a></h2>
+
+<section class="baike am-padding-sm">
+    <!--list{app="Article" label="contentList" class_id=5 expand_id=2 limit="3" order="time desc"   }-->
+    <article class="am-padding-vertical-sm am-padding-horizontal-xs">
+        <a href="{$list.aurl}" title="{$list.title}">
+            <div>
+                <img src="{$list.image}" alt="{$list.title}" class="am-img-responsive" />
+            </div>
+
+            <div class="am-padding-left-sm">
+                <p class="am-margin-vertical-0 am-text-sm am-text-truncate">{$list.title}</p>
+                <p class="am-margin-vertical-0 am-text-xs description">{$list.details}</p>
+            </div>
+        </a>
+    </article>
+    <!--{/list}-->
+
+    <!--<a href="" class="more am-text-center am-text-sm am-center">查看更多</a>-->
+</section>
+
+<h2 class="bg-title am-text-center am-margin-vertical-0 am-padding-top-xs"><a href="/page-jiankangyongciguanxindu.html">健康用词关心度排行榜 <span class="checkit">more</span></a></h2>
+
+<section class="phrase am-padding-sm">
+
+    <ul class="am-avg-sm-3" onclick="location='/page-jiankangyongciguanxindu.html'">
+        <!--list{app="DuxCms" label="formList" table="Vwords" order="data_id asc" limit=11}-->
+        <li class="am-margin-vertical-xs">
+            <p class="am-margin-vertical-xs am-text-xs"><span>{$list.data_id}</span> {$list.words}</p>
+        </li>
+        <!--{/list}-->
+    </ul>
+
+</section>
+
+<!--#include file="footer.html"-->
+
+<!--#include file="foot.html"-->

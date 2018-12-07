@@ -1,0 +1,46 @@
+<!--#include file="head.html"-->
+
+<body>
+
+<!--#include file="header.html"-->
+
+<img src="/assets/image/26.png" class="am-img-responsive am-center" />
+
+<section class="paragraph am-padding-sm">
+
+    <p class="am-margin-top-0 am-margin-bottom-xs am-text-xs am-padding-bottom-xs"><a href="__ROOT__/">首页</a> <!--foreach{$crumb as $vo}--><span> > </span><a href="{$vo.url}">{$vo.name}</a><!--{/foreach}--></p>
+
+    <h2 class="am-margin-top-0 am-margin-bottom-sm am-text-center am-text-lg">{$contentInfo.title}</h2>
+
+    <article class="am-center">
+        <p class="am-text-center am-margin-vertical-sm">来源：{$contentInfo.copyfrom}</p>
+        {$contentInfo.content}
+    </article>
+
+    <ul class="am-avg-sm-1 am-padding-vertical-sm bottomIndex">
+        <li>
+            <div class="am-text-sm am-text-truncate"><span>上一篇：</span>
+                <!--if{empty($prevInfo['aurl'])}-->
+                <a class="am-link-muted am-text-truncate">暂无</a>
+                <!--{else}-->
+                <a href="{$prevInfo.aurl}" class="am-link-muted ">{$prevInfo.title}</a>
+                <!--{/if}-->
+            </div>
+        </li>
+        <li>
+
+            <div class="am-text-sm am-text-truncate"><span>下一篇：</span>
+                <!--if{empty($nextInfo['aurl'])}-->
+                <a class="am-link-muted am-text-truncate">暂无</a>
+                <!--{else}-->
+                <a href="{$nextInfo.aurl}" class="am-link-muted ">{$nextInfo.title}</a>
+                <!--{/if}-->
+            </div>
+        </li>
+    </ul>
+
+</section>
+
+<!--#include file="footer.html"-->
+
+<!--#include file="foot.html"-->

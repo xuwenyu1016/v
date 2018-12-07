@@ -1,0 +1,3 @@
+<?php exit;?>001572347598dd4bfff58ae3a2baefcf8a87579ed738s:856:"a:2:{s:8:"template";s:793:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="相信大家对益生菌有种即熟悉又陌生的感觉吧。很多小伙伴常常会问“乳酸菌和益生菌有什么区别”。其实乳酸菌是益生菌的一个大类。就如同犬类和哺乳类的关系。今天就让小编为大家介绍下益生菌家族的“族谱”吧。在过去30年的研究中，科学家将已经发现的益生菌分为三大类：芽孢杆菌，乳酸菌，酵母及真菌。其中大部分的益生菌都属乳酸菌。乳酸菌种类是这3类里最多的。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1540811598;}";

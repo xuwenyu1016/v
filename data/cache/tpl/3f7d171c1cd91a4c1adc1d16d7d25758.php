@@ -1,0 +1,3 @@
+<?php exit;?>001567760373db5ccd365bdcd62b18e710761555002es:632:"a:2:{s:8:"template";s:569:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="近年来，随着国民经济水平提升，再加之年轻父母对益生菌功能认知加深，整个婴幼儿市场上益生菌产品发展迅猛。  在V生态看来，高品质的益生菌产品市场需求潜力无限，这对于V生态来说，是挑战，更是机遇。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224373;}";

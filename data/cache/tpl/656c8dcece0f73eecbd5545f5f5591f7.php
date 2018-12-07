@@ -1,0 +1,3 @@
+<?php exit;?>001570528275ee6f7428dd19750e5f4b10a27c6f8b2es:775:"a:2:{s:8:"template";s:712:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="旅行者腹泻，其实就是我们俗称的“水土不服”，是旅行中最常见的病症。指在旅行期间或旅行后，每天有3次或3次以上未成形粪，或未成形粪次数不定但伴有发热、腹痛或呕吐。 通常儿童和老人的症状要比青壮年严重，所以定义的范围也可进一步扩大，包括更多较轻微的、但足以影响商务行程或旅游计划的肠道紊乱。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538992275;}";

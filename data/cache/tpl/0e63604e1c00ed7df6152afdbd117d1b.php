@@ -1,0 +1,3 @@
+<?php exit;?>0015675033363ea93e63a91a3342b5795d8b58a8a073s:679:"a:2:{s:8:"template";s:616:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="肠易激综合征（IBS）是一种慢性胃肠道疾病。也被称为痉挛性结肠，功能性肠病和粘液性结肠炎。IBS不是真正的“结肠炎”。术语结肠炎是指一组不同的病症，例如溃疡性结肠炎，克罗恩病，显微镜结肠炎和缺血性结肠炎。这些是其他类型的肠病。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535967336;}";

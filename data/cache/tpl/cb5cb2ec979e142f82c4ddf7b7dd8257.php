@@ -1,0 +1,3 @@
+<?php exit;?>0015677603747a0b9a910e4ba335d2ab40a5cd2a95fcs:589:"a:2:{s:8:"template";s:526:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="近年来随着微生态学进入高速发展时代，肠道（人体）微生物的临床研究日益增多。作为人体“第二基因组”，肠道（人体）微生态科学将对人类防病治病产生积极而深远的影响。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224374;}";

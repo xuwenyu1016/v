@@ -1,0 +1,37 @@
+<!--#include file="head.html"-->
+
+<body>
+
+<!--#include file="header.html"-->
+
+<img src="/upload/2018-09-06/8785c562866d40ee0d531e9d9ace7be0.jpg" class="am-img-responsive am-center" alt="{$media.title}" />
+
+<p class="am-margin-vertical-xs am-text-xs am-padding-horizontal-sm am-padding-top-xs"><a href="__ROOT__/">首页</a> <!--foreach{$crumb as $vo}--><span> > </span><a href="{$vo.url}">{$vo.name}</a><!--{/foreach}--></p>
+
+<h3 class="am-margin-top-sm am-margin-bottom-xs am-text-center am-text-lg">{$categoryInfo.name}</h3>
+
+<section class="institute-article am-padding-horizontal-sm am-padding-top-xs am-padding-bottom-sm">
+    <!--foreach{$pageList as $vo}-->
+    <article class="am-padding-xs">
+
+        <a href="{$vo.aurl}">
+            <div>
+                <img src="{$vo.image}" alt="{$vo.title}" class="am-img-responsive" />
+            </div>
+
+
+            <div class="am-padding-left-sm">
+                <p class="am-margin-vertical-0 am-text-sm am-text-truncate">{$vo.title}</p>
+                <p class="am-margin-vertical-0 am-text-xs am-text-truncate">{$vo.details}</p>
+                <p class="am-margin-vertical-0 am-text-xs am-text-truncate">{date('Y-m-d',$vo.time)}</p>
+            </div>
+        </a>
+
+    </article>
+    <!--{/foreach}-->
+    <div class="pagination am-text-center am-margin-vertical-lg">{$page}</div>
+</section>
+
+
+
+<!--#include file="foot.html"-->

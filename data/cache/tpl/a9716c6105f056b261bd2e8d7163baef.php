@@ -1,0 +1,3 @@
+<?php exit;?>001569675839cec31122d35cb0e9811d2d6d186c6c1ds:884:"a:2:{s:8:"template";s:821:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="益生菌被认为有益健康甚至能预防疾病，然而益生菌在肠粘膜的定植情况仍待研究。抗生素治疗后常用益生菌来调理菌群失调，但尚不清楚该过程中益生菌在肠粘膜菌群恢复中扮演什么角色。顶级期刊Cell发表了来自以色列魏茨曼研究所（Weizmann Institute of Science）两位Eran（Eran Segal，Eran Elinav）等主导的两项研究，着重分析了益生菌在人体肠粘膜的定植情况和规律，和抗生素治疗后的益生菌干预的效果。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538139839;}";

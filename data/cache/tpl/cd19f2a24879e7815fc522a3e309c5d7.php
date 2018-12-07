@@ -1,0 +1,3 @@
+<?php exit;?>0015730352717b02a7bfa1a55f5f0e3df5d688abcd20s:790:"a:2:{s:8:"template";s:727:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="日常生活中，人们经常会被腹泻所困扰。无论是小孩还是成人都会遇到。要么吃药，要么就硬忍着。成人还好，小孩腹泻时真是急透了家长的心。即想孩子早点好，又担心吃药会影响到孩子的健康。毕竟是药三分毒！嗜酸乳杆菌已经被证实可以作为治疗腹泻的有效辅助剂代替药物。可以避免药物的副作用还能让孩子快速恢复健康。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1541499271;}";

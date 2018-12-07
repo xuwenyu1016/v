@@ -1,0 +1,3 @@
+<?php exit;?>0015675052898c779ad7da89d0e1a6dbb29d3bd08cb5s:682:"a:2:{s:8:"template";s:619:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="中医药学博大精深，具有独特的理论体系，微生态学是一门新兴科学，其一些基本理论观点与中医学理论存在着某些相似之处。从理论和实践上去探索中医药学与微生态学的关系逐渐成为热门研究领域，中医药微生态学这一新的理论体系已初步形成。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535969289;}";

@@ -1,0 +1,3 @@
+<?php exit;?>001570527874bb1ee2145aa9edff08252f2b5c7c54ads:815:"a:2:{s:8:"template";s:752:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="排气，俗称放屁，自古以来就是人类一大难题。豪迈壮阔地门庭大开，则气盖山河，惊天动地；面红耳赤地门关紧闭，则曲音悠扬，百转千声。放还是不放，这个发人深省的哲学问题，困扰着一代又一代炎黄子孙，引得文人墨士引经据典，争论不休。 作为新时代的小仙女，咱“出虚恭”自然得“不同凡响”。今天小编就给大家讲讲“屁”这件小事。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538991874;}";

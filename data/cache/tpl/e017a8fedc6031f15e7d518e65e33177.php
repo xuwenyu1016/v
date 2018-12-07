@@ -1,0 +1,3 @@
+<?php exit;?>001566544566be63e1ff8ebbf5cf1ea5f364315afd21s:952:"a:2:{s:8:"template";s:889:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="鼠李糖乳杆菌(Lactobacillus rhamnosus )是一种细菌，原本被认为的一个亚种，【亚种（subspecies）是某个种的表型上相似种群的集群，栖息在该物种分布范围内的次级地理区，而且在分类学上和该种的其他种群不同。】类似于干酪乳杆菌，但后来遗传学研究发现，鼠李糖乳杆菌可以作为一个独立的物种，是人类研究最广泛的益生菌之一。它是全球研究最多的一种益生菌，属于第三代益生菌。目前全球已有四十多个国家和地区有鼠李糖乳杆菌产品生产和销售。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535008566;}";

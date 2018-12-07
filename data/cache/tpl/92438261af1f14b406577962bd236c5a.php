@@ -1,0 +1,3 @@
+<?php exit;?>001568724128fceeb0904b3686af655adfb05b076014s:508:"a:2:{s:8:"template";s:445:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="肠易激综合征（IBS）是一组持续或间歇发作，以腹痛、腹胀、排便习惯和（或）大便性状改变的肠道功能紊乱性疾病。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1537188128;}";

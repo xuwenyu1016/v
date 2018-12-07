@@ -1,0 +1,3 @@
+<?php exit;?>001566619477286f60e07edfe402bfdc86d3bbd8cb23s:941:"a:2:{s:8:"template";s:878:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="肠道健康和益生菌的关系：肠道是人体主要的消化器官，人体所需的营养物质大约99%由肠道消化(另外1%左右的消化包括了口腔的机械性咀嚼和唾液淀粉酶对淀粉的分解等)，100%靠肠道吸收。肠道是人体内最大的微生态环境，肠道生态的正常或失调，对人体的健康和寿命有着举足轻重的影响。肠道中庞大的菌群(有益菌、有害菌、中性菌)之间已经形成相对依存、相互制约的关系、并处于相对平衡的状态，肠道中维护人体健康的天然防线完全形成。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535083477;}";

@@ -1,0 +1,3 @@
+<?php exit;?>001572516637856605c5e7512751be813367d30b5a4as:801:"a:2:{s:8:"template";s:738:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="一代天骄成吉思汗，一生戎马。这个一生都在征服的男人。率领他的蒙古铁骑西至多瑙河，南至淮河流域，东至库页岛，北至北极圈附近，所到之处战无不胜，攻无不克。版图稳定时期达到4400多万平方公里。是当时世界地图的五分之四！当之无愧的世界征服者！与之相比2500多万平方公里的日不落帝国（英帝国）只是一个稚嫩的“孩子”。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1540980637;}";

@@ -1,0 +1,3 @@
+<?php exit;?>001570528245753b30cbb1461a4e7b1a6e6626c19b7as:797:"a:2:{s:8:"template";s:734:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="世界肠胃病学组织(WGO)将每年的5月29日定为世界肠道健康日，并集中于一个特定的肠胃病学主题，面向大众进行普及教育。普唯尔生命科技积极宣传和倡导世界肠道健康日，呼吁您关注肠道健康。2018年5月29日是第十四个世界肠道健康日，主题是Viral Hepatitis, B and C: Lift the Global Burden （病毒性肝炎、乙型肝炎和丙型肝炎：减轻全球负担）。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538992245;}";

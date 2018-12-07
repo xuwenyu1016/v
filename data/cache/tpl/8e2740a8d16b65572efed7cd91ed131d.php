@@ -1,0 +1,3 @@
+<?php exit;?>00157320592661c0e23a4f87e980e408e88f5749492as:616:"a:2:{s:8:"template";s:553:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="我们现在越来越习惯益生菌出现在我们日常生活中，我们也很少去想象他怎么出现的，什么时间出现的，其实这些友好的微生物几乎如同生命本身一般古老。小编带领大家逐渐揭开益生菌的神秘面纱。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1541669926;}";

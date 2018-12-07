@@ -1,0 +1,3 @@
+<?php exit;?>001567503394fbedfd1c2ca500961a33d18d09fd0729s:613:"a:2:{s:8:"template";s:550:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="益生菌每个宝妈都不陌生，有的宝妈甚至对益生菌的菌种和作用了如指掌。是啊，为了自己的心肝宝贝健康成长，宝妈们要把自己打造成“育婴专家”，不断学习，不断成长，努力做一个超人妈妈！">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535967394;}";

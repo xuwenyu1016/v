@@ -1,0 +1,3 @@
+<?php exit;?>00156654433713097ba13deed2cf9599551619083c8bs:778:"a:2:{s:8:"template";s:715:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="益生菌是一种有益于身体健康的活菌和酵母，特别是对消化系统有格外的帮助。我们有时候会存在一些误区，会认为益生菌和细菌一样会导致疾病的产生，但是我们不知道的是，我们的身体其实充满了细菌，有好的细菌，也有坏的细菌。益生菌通常会被称为“好的”或“有益的”细菌，因为它们有助于我们保持肠道健康。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535008337;}";

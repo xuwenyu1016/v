@@ -1,0 +1,3 @@
+<?php exit;?>0015718340730a120ebcd3df32741a3ae7ae14b8ddb1s:1040:"a:2:{s:8:"template";s:977:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="在高加索山脉，传说由此产生的Kefir“谷物(不是真正的谷物)是穆罕默德送给正统派教徒的礼物，穆罕默德教他们如何使用谷物。  穆罕默德严禁他们将如何制备Kefir的秘密泄露给其他人，或传递给任何人，因为他们会失去他们的“魔法力量”，这个传说解释了为什么Kefir颗粒和Kefir制备方法一直被神秘所包围，并未所以并未被更多人知道。在有记载的大部分历史中，除了高加索山脉之外，Kefir几乎不为人所知，尽管马可波罗在叙述他的旅行时提到了这一点。然后，在俄国沙皇的命令下，它在20世纪初被带到俄国，并在欧">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1540298073;}";

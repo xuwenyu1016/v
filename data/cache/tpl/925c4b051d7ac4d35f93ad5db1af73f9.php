@@ -1,0 +1,3 @@
+<?php exit;?>00156880923486ba1fbdcfa47dd6b080da6fc1a56ad0s:556:"a:2:{s:8:"template";s:493:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="当前母婴市场中，越来越多的品牌选择去中间商，直营母婴终端，寻求运营成本最低化。而这对经销商而言，锐减的合作品牌致使可运营渠道的价值缩水。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1537273234;}";

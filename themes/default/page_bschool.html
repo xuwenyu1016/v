@@ -1,0 +1,148 @@
+<!--#include file="head.html"-->
+
+<body class="light-grey">
+
+<!--#include file="header.html"-->
+
+<section class="slider am-padding-top-xl am-padding-bottom-sm">
+    <div class="am-container institute-big-slide">
+
+        <div data-am-widget="slider" class="am-slider am-slider-a1" data-am-slider='{"directionNav":false}' >
+            <ul class="am-slides">
+                <!--list{app="DuxCms" label="formList" table="bSchoolSlide" order="ranks asc" limit=2}-->
+                <li>
+                    <article class="slider-container">
+                        <a href="{$list.link}">
+                            <img src="{$list.PC_img}" class="am-img-responsive" title="{$list.description}" alt="{$list.description}" />
+                            <div class="title">
+
+                                <h2 class="am-margin-vertical-sm">{$list.briefTitle}</h2>
+                                <p class="am-margin-vertical-sm">{$list.description}</p>
+                                <span class="more am-margin-top-xl am-text-center">READ MORE</span>
+
+                            </div>
+                        </a>
+                    </article>
+                </li>
+                <!--{/list}-->
+
+            </ul>
+        </div>
+
+    </div>
+</section>
+
+<main class="institute-main">
+    <div class="am-container">
+
+        <p class="am-margin-vertical-sm"><a href="__ROOT__/">首页</a> <!--foreach{$crumb as $vo}--><span> > </span><a href="{$vo.url}">{$vo.name}</a><!--{/foreach}--></p>
+
+        <div class="institute-container">
+
+            <div data-am-widget="tabs" class="am-tabs am-tabs-default">
+                <ul class="am-tabs-nav am-cf">
+                    <li class="am-active"><a href="[data-tab-panel-0]">行业资讯</a></li>
+                    <li class=""><a href="[data-tab-panel-1]">公司新闻</a></li>
+                    <li class=""><a href="[data-tab-panel-2]">商学院</a></li>
+                    <!--<li class=""><a href="[data-tab-panel-3]">V生态优势</a></li>-->
+                </ul>
+                <div class="am-tabs-bd">
+                    <div data-tab-panel-0 class="am-tab-panel am-active am-padding-top-lg">
+                        <section>
+
+                            <!--list{app="Article" label="contentList" class_id=15 expand_id=2 limit="10" order="time desc"   }-->
+                            <article>
+                                <a href="{$list.aurl}">
+                                    <img src="{$list.image}" class="am-img-responsive" alt="{$list.title}">
+
+                                    <div>
+                                        <p class="am-text-truncate am-margin-vertical-xs">{$list.title}</p>
+                                        <p class="details am-margin-vertical-xs">{$list.details}</p>
+                                        <p class="am-text-xs am-margin-bottom-0 am-margin-top-sm">{date('Y-m-d',$list.time)}</p>
+                                    </div>
+                                </a>
+                            </article>
+                            <!--{/list}-->
+                            <a href="/list-hangyezixun.html" class="showList"> -- 查看更多 -- </a>
+
+                        </section>
+                    </div>
+                    <div data-tab-panel-1 class="am-tab-panel am-padding-top-lg">
+                        <section>
+
+                            <!--list{app="Article" label="contentList" class_id=16 expand_id=2 limit="10" order="time desc"   }-->
+                            <article>
+                                <a href="{$list.aurl}">
+                                    <img src="{$list.image}" class="am-img-responsive" alt="{$list.title}">
+
+                                    <div>
+                                        <p class="am-text-truncate am-margin-vertical-xs">{$list.title}</p>
+                                        <p class="details am-margin-vertical-xs">{$list.details}</p>
+                                        <p class="am-text-xs am-margin-bottom-0 am-margin-top-sm">{date('Y-m-d',$list.time)}</p>
+                                    </div>
+                                </a>
+                            </article>
+                            <!--{/list}-->
+                            <a href="/list-gongsixinwen.html" class="showList"> -- 查看更多 -- </a>
+
+                        </section>
+                    </div>
+                    <div data-tab-panel-2 class="am-tab-panel am-padding-top-lg">
+                        <section>
+
+                            <!--list{app="Article" label="contentList" class_id=17 expand_id=2 limit="10" order="time desc"   }-->
+                            <article>
+                                <a href="{$list.aurl}">
+                                    <img src="{$list.image}" class="am-img-responsive" alt="{$list.title}">
+
+                                    <div>
+                                        <p class="am-text-truncate am-margin-vertical-xs">{$list.title}</p>
+                                        <p class="details am-margin-vertical-xs">{$list.details}</p>
+                                        <p class="am-text-xs am-margin-bottom-0 am-margin-top-sm">{date('Y-m-d',$list.time)}</p>
+                                    </div>
+                                </a>
+                            </article>
+                            <!--{/list}-->
+                            <a href="/list-shangxueyuan.html" class="showList"> -- 查看更多 -- </a>
+
+                        </section>
+                    </div>
+
+                </div>
+            </div>
+
+            <aside>
+
+                <section class="am-padding-sm">
+                    <h2 class="am-margin-top-0 am-margin-bottom-sm am-padding-right-sm">V生态优势</h2>
+
+                    <!--list{app="Article" label="contentList" class_id="18" expand_id=2 limit="5" order="time desc"   }-->
+                    <article>
+                        <a href="{$list.aurl}">
+                            <img src="{$list.image}" class="am-img-responsive" alt="{$list.title}">
+
+                            <div class="am-padding-left-sm">
+                                <p class="am-text-truncate am-margin-vertical-xs">{$list.title}</p>
+                                <p class="am-text-xs am-margin-bottom-0 am-margin-top-sm">{date('Y-m-d',$list.time)}</p>
+                            </div>
+                        </a>
+                    </article>
+                    <!--{/list}-->
+                </section>
+
+
+
+
+            </aside>
+
+        </div>
+        
+
+    </div>
+</main>
+
+
+
+<!--#include file="footer.html"-->
+
+<!--#include file="foot.html"-->

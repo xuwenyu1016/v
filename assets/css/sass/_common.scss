@@ -1,0 +1,24 @@
+$flex-center:(display: flex,align-items: center,align-items-st: flex-start,justify-content: center,justify-content-sb:space-between);
+@function flexs($flex){
+  $names: map-keys($flex-center);
+  @if index($names, $flex){
+    @return map-get($flex-center, $flex);
+  }
+
+  //@warn "Warning: '#{$flex}' is not a valid color name.";
+};
+
+$font-color:(white:white,black:#383838,grey:#4d515b, red:#d8443f, darkRed: #a51a1f, light-grey:#f1f1f1, galleryColor: #23272a, mid-gray: #bdbdbd);
+$font-size:(font-42:42px,font-36:36px,font-32:32px,font-24:24px,font-20:20px);
+
+a{
+  color: inherit;
+  &:hover{color: inherit;}
+}
+
+%clamp{text-overflow: ellipsis;display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;}
+
+%with_description{
+  width: calc( 100% - 105px );
+  p.description{@extend %clamp;$num:20px;$line-num:2; -webkit-line-clamp: $line-num;line-height:$num;max-height: $num * $line-num;}
+}

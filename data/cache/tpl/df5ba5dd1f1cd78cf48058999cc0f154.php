@@ -1,0 +1,3 @@
+<?php exit;?>001569585078d9be918bdfef3695549adacffe6fa977s:614:"a:2:{s:8:"template";s:551:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="小V发现，近几年，随着大家健康意识的提高，市场上刮起了一股妖风。这股妖风便是：标榜健康功效的益生菌饮料越来越多，它们都宣称自己添加有上百亿活菌，能达到调理肠道、通便减肥等功效。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538049078;}";

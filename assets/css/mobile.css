@@ -1,0 +1,32 @@
+h2{font-size: 2rem;}
+p{font-size: 1.2rem;}
+a{color: inherit;}
+
+.greyBackground{background-color: #ebebeb;}
+
+.sign-up{width: 100px;height: 24px;line-height: 24px;background-color: #4695ff;color: white;display: block;
+    margin: 0 auto;text-align: center;font-size: 14px;}
+
+.v-cooperate{background-color: rgba(101,167,254,1);color: white;}
+.v-cooperate hr{width: 80%;margin-left: auto;margin-right: auto;}
+.v-cooperate ul li:nth-child(1) img,.v-cooperate ul li:nth-child(3) img{margin: 0 auto;width: 25%;}
+.v-cooperate ul li:nth-child(2) img{width: 50%;margin-bottom: 10px;}
+
+/*.v-operate ol{list-style: decimal;padding-left: 20px;font-size: 1.4rem;margin-bottom: 0;}*/
+/*.v-operate ol li{display: list-item;}*/
+
+.v-news article a p{color: #333;}
+.v-news .media-box .list-news .list-news-hd a{position: relative;display: block;}
+.v-news .media-box .list-news .list-news-hd a span{position: absolute;right: 0;top:8px;font-size: 12px;}
+.v-news .media-box .list-news .news-list{padding-left: 20px;}
+
+.v-apply form input,.v-apply form textarea{display: block;width: 80%;margin: 10px auto;font-size: 14px;height: 30px;padding: 5px;}
+.v-apply form textarea{height: 80px;}
+.v-apply form button{padding: 0;border: none;}
+
+.bottom-nav{background-color: rgba(40, 50, 51, 1);position: fixed;bottom: 0;
+    width: 100%;height: 58px;z-index: 1000;}
+
+.bottom-nav .am-navbar-nav li a{color: white;display: block;text-align: center;padding-top: 5px;
+    padding-bottom: 5px;height: 58px;}
+.bottom-nav .am-navbar-nav li a.active{background-color: rgba(82, 137, 189, 0.6);}

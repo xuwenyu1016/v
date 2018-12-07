@@ -1,0 +1,3 @@
+<?php exit;?>001567503334e9d78a533786f5e73b544c39843012e4s:699:"a:2:{s:8:"template";s:636:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="自90年代起形形色色的“益生菌”类保健品在全世界范围风靡至今，维持菌群平衡、缓解便秘和腹泻、增强免疫力、延年益寿、防治肥胖、排除毒素、降低血清胆固醇、缓解乳糖不耐受、缓解过敏症状、甚至是预防癌症…小小的益生菌成了包治百病的“万金油”。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1535967334;}";

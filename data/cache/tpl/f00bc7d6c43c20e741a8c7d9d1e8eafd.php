@@ -1,0 +1,3 @@
+<?php exit;?>001567760385bdb58c4ebd75e5a5b3fad566541fcaccs:750:"a:2:{s:8:"template";s:687:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="曾经有一个新闻报道是这样的：一名90斤重的26岁女孩小雪，有着10年的便秘史。某天小雪突然腹痛难忍，被紧急送往医院，经过检查，她换上了先天性巨结肠症，结肠直径比正常人大一倍，并且小雪的心脏被巨大的结肠挤压到胸腔右侧。最后医生通过手术把沉积在小雪体内的排泄物清理掉，多达10斤！">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1536224385;}";

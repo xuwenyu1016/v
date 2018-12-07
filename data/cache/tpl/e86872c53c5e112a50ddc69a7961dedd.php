@@ -1,0 +1,3 @@
+<?php exit;?>00156958555615d71c074e8d8ff23a92dff88632ec2cs:667:"a:2:{s:8:"template";s:604:"<div class="form-group"><div class="label"><label>内容简介</label></div><div class="field">
+                    <input type="text" class="input" id="Fieldset_details" name="Fieldset_details" size="60"  value="宝宝出生时，除了性别以外，最受关注的恐怕就是体重了。“大胖小子”的说法都带了几分称赞的意味。仿佛体重也是优势一样，而且越胖越好；不然就是营养不良身体有什么问题，是不是吃得不够？缺什么啊？养得白白胖胖的孩子才好。">
+                <div class="input-note">字符多余100</div></div></div>";s:12:"compile_time";i:1538049556;}";
